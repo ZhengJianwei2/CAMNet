@@ -1,2 +1,2 @@
 # CAMNet
-The paper "Camouflage Object Detection with Contour-awareness and Cross-interaction Mamba" is being submitted to Knowledge-Based Systems, and the code will be coming soon.
+The paper "CAMNet: Camouflage Object Detection via Contour-awareness and Cross-interaction Mamba" is being submitted to journal, and the code will be coming soon.
